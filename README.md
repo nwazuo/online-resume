@@ -12,7 +12,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3006](http://localhost:3006) to view it in the browser.
 
-![Zuri Internship](/zuri.jpeg)
-![HNG Internship](/hng.png)
+![Zuri Internship](zuri.jpeg)
+![HNG Internship](hng.png)
 
 https://internship.zuri.team/
