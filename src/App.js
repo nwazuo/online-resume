@@ -21,16 +21,6 @@ const App = () => (
     <About />
     <Experience />
     <Contact />
-    {/* forgive the code-sore here. I was in a hurry */}
-    <div style={divStyle}>
-      <img src="/zuri.jpeg" />
-    </div>
-    <div style={divStyle}>
-      <img src="/hng.png" width={`150px`} />
-    </div>
-    <div style={divStyle}>
-      <a href="https://internship.zuri.team">Zuri Internship </a>
-    </div>
     <Footer />
   </>
 );
