@@ -179,7 +179,8 @@ const ContactForm = () => {
     } catch (err) {
       console.log(err);
       setError({
-        message: 'Something went wrong, please try again.',
+        message:
+          "This form doesn't work. Please reach me via my email - chizonwazuo@yahoo.com",
         data: err,
       });
     }
